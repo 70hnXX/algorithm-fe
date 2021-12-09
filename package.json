@@ -1,0 +1,16 @@
+{
+  "name": "algorithm-fe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:70hnXX/algorithm-fe.git",
+  "author": "wuyangjiacuo <wuyangjiacuo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.2"
+  }
+}
